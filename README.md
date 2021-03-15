@@ -1,3 +1,7 @@
+Atualmente linkado com o projeto backend em c#
+Repositorio do backend: https://github.com/erickbaron/Controle-de-Estoque
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
