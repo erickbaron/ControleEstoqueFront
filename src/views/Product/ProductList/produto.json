@@ -1,0 +1,18 @@
+[
+    {
+    "id": "604d9058-8de1-4f75-a920-08d880241d5b",
+    "nome": "Tábua de carne",
+    "codigo": "TB5000",
+    "precoCusto": 50.00,
+    "precoVenda": 25.00,
+    "quantEstoque": 2
+    },
+    {
+    "id": "de4c6136-00ff-4368-708a-08d881b56436",
+    "nome": "Faca de churrasco",
+    "codigo": "12",
+    "precoCusto": 75.00,
+    "precoVenda": 120.00,
+    "quantEstoque": 2
+    }
+]
