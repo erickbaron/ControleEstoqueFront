@@ -12,7 +12,7 @@ const Produto = () => {
 
 
   async function getProdutos() {
-      setProdutos((await api.get('/produto')).data);
+      setProdutos(produtoJson);
   }
 
   useEffect(() => {
