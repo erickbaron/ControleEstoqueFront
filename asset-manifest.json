@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/ControleEstoqueFront/static/js/main.2b959c20.chunk.js",
-    "main.js.map": "/ControleEstoqueFront/static/js/main.2b959c20.chunk.js.map",
+    "main.js": "/ControleEstoqueFront/static/js/main.c1dcc6e7.chunk.js",
+    "main.js.map": "/ControleEstoqueFront/static/js/main.c1dcc6e7.chunk.js.map",
     "runtime-main.js": "/ControleEstoqueFront/static/js/runtime-main.81f078d0.js",
     "runtime-main.js.map": "/ControleEstoqueFront/static/js/runtime-main.81f078d0.js.map",
     "static/js/2.6be18b7a.chunk.js": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js",
     "static/js/2.6be18b7a.chunk.js.map": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js.map",
     "index.html": "/ControleEstoqueFront/index.html",
-    "precache-manifest.46251e01c432b7f7efd19cfc88cf8e33.js": "/ControleEstoqueFront/precache-manifest.46251e01c432b7f7efd19cfc88cf8e33.js",
+    "precache-manifest.8721b9a33cd95f069887ebcd200fd34b.js": "/ControleEstoqueFront/precache-manifest.8721b9a33cd95f069887ebcd200fd34b.js",
     "service-worker.js": "/ControleEstoqueFront/service-worker.js",
     "static/js/2.6be18b7a.chunk.js.LICENSE.txt": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js.LICENSE.txt",
     "static/media/oie_ivYMjSlKkZbj.png": "/ControleEstoqueFront/static/media/oie_ivYMjSlKkZbj.fc4838b6.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.81f078d0.js",
     "static/js/2.6be18b7a.chunk.js",
-    "static/js/main.2b959c20.chunk.js"
+    "static/js/main.c1dcc6e7.chunk.js"
   ]
 }

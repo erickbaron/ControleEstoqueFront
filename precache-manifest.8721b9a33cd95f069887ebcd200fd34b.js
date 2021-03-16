@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "807763018731c6b455f6b15aa87cb9eb",
+    "revision": "5ba64e2bc2711b530f5d492b5aea5563",
     "url": "/ControleEstoqueFront/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c68aa230142bdbbdb44c",
-    "url": "/ControleEstoqueFront/static/js/main.2b959c20.chunk.js"
+    "revision": "474cfb527d8e88d0010d",
+    "url": "/ControleEstoqueFront/static/js/main.c1dcc6e7.chunk.js"
   },
   {
     "revision": "1d8c2c720dba41806368",
