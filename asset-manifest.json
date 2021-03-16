@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.js": "/ControleEstoqueFront/static/js/main.c1dcc6e7.chunk.js",
-    "main.js.map": "/ControleEstoqueFront/static/js/main.c1dcc6e7.chunk.js.map",
-    "runtime-main.js": "/ControleEstoqueFront/static/js/runtime-main.81f078d0.js",
-    "runtime-main.js.map": "/ControleEstoqueFront/static/js/runtime-main.81f078d0.js.map",
-    "static/js/2.6be18b7a.chunk.js": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js",
-    "static/js/2.6be18b7a.chunk.js.map": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js.map",
+    "main.js": "/ControleEstoqueFront/static/js/main.348c2884.chunk.js",
+    "main.js.map": "/ControleEstoqueFront/static/js/main.348c2884.chunk.js.map",
+    "runtime-main.js": "/ControleEstoqueFront/static/js/runtime-main.6e681386.js",
+    "runtime-main.js.map": "/ControleEstoqueFront/static/js/runtime-main.6e681386.js.map",
+    "static/css/2.799c978e.chunk.css": "/ControleEstoqueFront/static/css/2.799c978e.chunk.css",
+    "static/js/2.e1bdfccf.chunk.js": "/ControleEstoqueFront/static/js/2.e1bdfccf.chunk.js",
+    "static/js/2.e1bdfccf.chunk.js.map": "/ControleEstoqueFront/static/js/2.e1bdfccf.chunk.js.map",
     "index.html": "/ControleEstoqueFront/index.html",
-    "precache-manifest.8721b9a33cd95f069887ebcd200fd34b.js": "/ControleEstoqueFront/precache-manifest.8721b9a33cd95f069887ebcd200fd34b.js",
+    "precache-manifest.f29fd3efe17d38ddf25e659fb0eda011.js": "/ControleEstoqueFront/precache-manifest.f29fd3efe17d38ddf25e659fb0eda011.js",
     "service-worker.js": "/ControleEstoqueFront/service-worker.js",
-    "static/js/2.6be18b7a.chunk.js.LICENSE.txt": "/ControleEstoqueFront/static/js/2.6be18b7a.chunk.js.LICENSE.txt",
-    "static/media/oie_ivYMjSlKkZbj.png": "/ControleEstoqueFront/static/media/oie_ivYMjSlKkZbj.fc4838b6.png"
+    "static/css/2.799c978e.chunk.css.map": "/ControleEstoqueFront/static/css/2.799c978e.chunk.css.map",
+    "static/js/2.e1bdfccf.chunk.js.LICENSE.txt": "/ControleEstoqueFront/static/js/2.e1bdfccf.chunk.js.LICENSE.txt",
+    "static/media/oie_ivYMjSlKkZbj.png": "/ControleEstoqueFront/static/media/oie_ivYMjSlKkZbj.fc4838b6.png",
+    "static/media/slide_1.png": "/ControleEstoqueFront/static/media/slide_1.5ffaf9c3.png",
+    "static/media/slide_2.png": "/ControleEstoqueFront/static/media/slide_2.1dd41540.png",
+    "static/media/slide_3.png": "/ControleEstoqueFront/static/media/slide_3.802a713c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.81f078d0.js",
-    "static/js/2.6be18b7a.chunk.js",
-    "static/js/main.c1dcc6e7.chunk.js"
+    "static/js/runtime-main.6e681386.js",
+    "static/css/2.799c978e.chunk.css",
+    "static/js/2.e1bdfccf.chunk.js",
+    "static/js/main.348c2884.chunk.js"
   ]
 }
